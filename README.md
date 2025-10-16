@@ -12,7 +12,7 @@ The task was to create a **GET /me endpoint** that returns:
 - Integration with an external API (Cat Facts)
 - Structured JSON response
 - Configurable via environment variables
-- Ready for deployment on Railway
+- Ready for deployment on Render
 
 # Tech Stack
 - **Node.js** - Backend runtime
@@ -80,6 +80,9 @@ If the external Cat Facts API is unreachable, a fallback response is returned:
     "fact": "Could not fetch cat fact at the moment, please try again later"
 }
 ```
+
+# API Documentation
+[Postman Documentation](https://backend-wizard-stage0.onrender.com/me)
 
 # Deployment
 The project can be deployed on:
