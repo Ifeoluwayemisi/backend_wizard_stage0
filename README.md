@@ -82,7 +82,9 @@ If the external Cat Facts API is unreachable, a fallback response is returned:
 ```
 
 # API Documentation
-[Postman Documentation](https://backend-wizard-stage0.onrender.com/me)
+### Postman Documentation
+
+You can find the detailed Postman documentation for this API [here](https://racheal-7945544.postman.co/workspace/Racheal's-Workspace~c520a5ae-00d9-420a-8bb6-cec29e341f7d/collection/43458703-7a7900ae-4b14-435e-b235-c001139f0dc1?action=share&source=copy-link&creator=43458703).
 
 # Deployment
 The project can be deployed on:
