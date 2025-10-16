@@ -83,11 +83,12 @@ If the external Cat Facts API is unreachable, a fallback response is returned:
 
 # Deployment
 The project can be deployed on:
+- Render
 - Railway
 - Heroku
 - AWS Elastic Beanstalk
 
-This project was deployed using **Railway**.
+This project was deployed using **Render**.
 
 # Environment Variables
 | Variable    | Description                     |
@@ -101,8 +102,11 @@ This project was deployed using **Railway**.
 You can test the API using:
 - Postman
 - cURL
-- Browser (navigate to `/me`)
+- Browser (navigate to `${url}/me`)
 - Thunder Client (VS Code extension)
+
+# Screenshot/ Demo
+[![API Demo](preview.png)](https://backend-wizard-stage0.onrender.com/me)
 
 # Reflection
 This task taught me how to:
